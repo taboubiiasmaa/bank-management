@@ -1,2 +1,3 @@
 # bank-management
-First application
+First application using C++
+
